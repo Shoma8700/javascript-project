@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Elon Musk",
+    "age": 52,
+    "Citizenship": "USA",
+    "Condition": "$219 bill",
+    "Source": "Tesla",
+    "img": "../img/Elon_Musk.jpeg"
+  },
+  {
+    "name": "Jeff Bezos",
+    "age": 59,
+    "Citizenship": "USA",
+    "Condition": "$171 bill",
+    "Source": "Amazon",
+    "img": "../img/Jeff_Bezos.jpeg"
+  },
+  {
+    "name": "Bill Gates",
+    "age": 67,
+    "Citizenship": "USA",
+    "Condition": "$129 bill",
+    "Source": "Microsoft",
+    "img": "../img/Bill_Gates.jpeg"
+  },
+  {
+    "name": "Warren Buffett",
+    "age": 92,
+    "Citizenship": "USA",
+    "Condition": "$118 bill",
+    "Source": "Investor",
+    "img": "../img/Warren_Buffett.jpeg"
+  },
+  {
+    "name": "Larry Page",
+    "age": 50,
+    "Citizenship": "USA",
+    "Condition": "$111 bill",
+    "Source": "Alphabet",
+    "img": "../img/Larry_Page.jpeg"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "age": 39,
+    "Citizenship": "USA",
+    "Condition": "$67 bill",
+    "Source": "Facebook",
+    "img": "../img/Mark_Zuckerberg.jpeg"
+  }
+]
